@@ -1,6 +1,8 @@
 # Data Science Projects Portfolio - Bruna Portilho
 
-Welcome to my projetcs portfolio. Here you will be able to take a look at all my data science projects. The objective of these projects is to demonstrate my skills in solving business problems using Data Science.
+Welcome to my projetcs portfolio. Here you will be able to take a look at all my data science projects. 
+
+The objective of these projects is to demonstrate my skills in solving business problems using Data Science.
 
 # Data Science
 
@@ -19,6 +21,8 @@ I am a Data Scientist with focus in developing end-to-end solutions for business
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>]( https://www.linkedin.com/in/bruna-portilho-b48309124)
 
 # Data Science Projects
+
+**Rossmann Stores Sales Prediction**
 
 https://github.com/Bruna-Portilho/BP-Rossmann-Sales-Model
 
