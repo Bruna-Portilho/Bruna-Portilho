@@ -1,16 +1,26 @@
-### Hi there 👋
+# Data Science Projects Portfolio - Bruna Portilho
 
-<!--
-**Bruna-Portilho/Bruna-Portilho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my projetcs portfolio. Here you will be able to take a look at all my data science projects. The objective of these projects is to demonstrate my skills in solving business problems using Data Science.
 
-Here are some ideas to get you started:
+# Data Science
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Data Scientist with focus in developing end-to-end solutions for business problems through collecting, processing data and implementing machine learning models in order to improve business results.
+
+**Analytical Tools:**
+- **Data Collect:** SQL, MySQL, Postgres.
+- **Data Processing and Analysis:** Pyhton (Pandas, Numpy, Seaborn, Pyplot).
+- **Development:** Git, Scrum.
+- **Data Visualization:** Power BI, Metabase.
+- **Machine Learning Modeling:** Regression, Clustering.
+- **Machine Learning Deployment:** Heroku
+
+# Contacts
+
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>]( https://www.linkedin.com/in/bruna-portilho-b48309124)
+
+# Data Science Projects
+
+https://github.com/Bruna-Portilho/BP-Rossmann-Sales-Model
+
+![sales-prediction-social-media](https://user-images.githubusercontent.com/85244180/136030996-bc99f9e2-c679-4215-9df2-d245f088541c.png)
+
