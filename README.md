@@ -10,7 +10,7 @@ I am a Data Scientist with focus in developing end-to-end solutions for business
 
 **Analytical Tools:**
 - **Data Collect:** SQL, MySQL, Postgres.
-- **Data Processing and Analysis:** Pyhton (Pandas, Numpy, Seaborn, Pyplot).
+- **Data Processing and Analysis:** Pyhton (Pandas, Numpy, Seaborn, Pyplot, Matplotlib, Scikit-learn).
 - **Development:** Git, Scrum.
 - **Data Visualization:** Power BI, Metabase.
 - **Machine Learning Modeling:** Regression, Clustering.
