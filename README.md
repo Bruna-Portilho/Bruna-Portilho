@@ -28,6 +28,6 @@ https://github.com/Bruna-Portilho/BP-Rossmann-Sales-Model
 
 ![sales-prediction-social-media](https://user-images.githubusercontent.com/85244180/136030996-bc99f9e2-c679-4215-9df2-d245f088541c.png)
 
-The CFO of Rossmann Drug Stores requested a sales predction for each store for the next six weeks in order to define a budget for stores renovation. The current prediction was not satisfactory as there were several inconsistencies. In this context, I developed a machine learning model in order to provide more accurately forecast store sales.
+The CFO of Rossmann Drug Stores requested a sales predction for each store for the next six weeks in order to define a budget for stores renovation. The current prediction was not satisfactory as there were several inconsistencies. In this context, I developed a machine learning regression model in order to provide more accurately forecast store sales.
 
 The model provides daily predictions that could be accessed in Telegram with an error (MAPE) of 11%.
